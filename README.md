@@ -1,5 +1,3 @@
-# Store cookies httpOnly flag
-
 ## Example (Kiểm tra đăng nhập Zing Id)
 
 * Kiểm tra đăng nhập Zing Id.
