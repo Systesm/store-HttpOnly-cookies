@@ -1,12 +1,4 @@
-// const curl = require('curl');
-
-// (async () => {
-//     let request = curl.get('https://www.facebook.com/', )
-// })()
-
-
 const got = require('got');
-
 
 (async () => {
     try {
